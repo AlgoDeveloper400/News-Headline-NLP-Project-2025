@@ -1,0 +1,5 @@
+feedparser==6.0.10
+selenium==4.15.0
+torch==2.1.0 --index-url https://download.pytorch.org/whl/cpu
+transformers==4.35.2
+numpy==1.24.3
