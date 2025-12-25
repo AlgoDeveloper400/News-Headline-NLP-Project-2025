@@ -326,4 +326,4 @@ The trading components require significant additional work including:
 For additional help, tutorials, and guidance on this project, visit my YouTube channel:
 https://www.youtube.com/@BDB5905
 
-Find video walkthroughs, setup guides, troubleshooting tips, and project updates to help you work with this NLP pipeline.
+Find video walkthroughs, setup guides, troubleshooting tips, and project updates to help you work with this NLP pipeline. Also, NO DOCKER CONTAINER WILL BE MADE. It will only be made once we have finalized everything.
