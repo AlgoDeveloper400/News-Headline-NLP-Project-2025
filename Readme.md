@@ -249,7 +249,7 @@ Investing.com RSS Feed (Display Only)
 - [ ] Develop automated retraining pipeline
 - [ ] Create comprehensive backtesting framework
 
-## Contributing
+## Contributions
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
